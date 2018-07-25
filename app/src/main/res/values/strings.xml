@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">MySecondApp</string>
 
-    <string name = "textfld_string"> This string is located in Strings Resources in res folder </string>>
+    <string name = "textfld_string"> This string is located in Strings Resources in the res folder </string>>
 </resources>
